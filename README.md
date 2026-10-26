@@ -1,5 +1,5 @@
 <p align="center">
-<img scr="https://i.pinimg.com/originals/5d/9a/c0/5d9ac02824b8ec8ab3772683b6cb858d.gif" width="100%" height="200" style="object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/5d/9a/c0/5d9ac02824b8ec8ab3772683b6cb858d.gif" width="100%" height="200" style="object-fit: cover;">
 </p>
 <h1 align="center">Hi there, I'm Mar 👋</h1>
 
