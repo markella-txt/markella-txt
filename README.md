@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/5d/9a/c0/5d9ac02824b8ec8ab3772683b6cb858d.gif" width="100%" height="200" style="object-fit: cover;">
 </p>
+<br>
 <h1 align="center">Hi there, I'm Mar 👋</h1>
 
 <p align="center">
@@ -25,6 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
